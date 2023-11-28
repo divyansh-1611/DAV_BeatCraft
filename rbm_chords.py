@@ -7,7 +7,7 @@ from tensorflow.python.ops import control_flow_ops
 from tqdm import tqdm
 tf.compat.v1.disable_eager_execution()
 
-# place this file in tha same directory as the midi_manipulation.py file and the Pop_Music_Midi directory
+# place this file in the same directory as the midi_manipulation.py file and the Pop_Music_Midi directory
 
 import midi_manipulation
 
